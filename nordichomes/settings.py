@@ -50,7 +50,12 @@ INSTALLED_APPS = [
     'core',
     'product',
     'order',
+    "django_table_sort",
 ]
+
+#COMPRESS_ROOT = BASE_DIR / 'static'
+#COMPRESS_ENABLED = True+
+#STATICFILES_FINDERS = ('compressor.finders.CompressorFinder',)
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

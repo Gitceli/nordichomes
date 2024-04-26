@@ -1,5 +1,0 @@
-Todo list - part 20:
-    -DONE Create new database model for reviews
-    -DONE Create form for reviews
-    -DONE Display reviews
-        -DONE Create a model function
